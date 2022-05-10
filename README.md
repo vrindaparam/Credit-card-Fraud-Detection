@@ -10,13 +10,13 @@ It has been estimated by Nilson report that by 2020 the banking frauds would acc
 
 In the banking industry, credit card fraud detection using machine learning is not just a trend but a necessity for them to put proactive monitoring and fraud prevention mechanisms in place. Machine learning is helping these institutions to reduce time-consuming manual reviews, costly chargebacks and fees, and denials of legitimate transactions.
 
-**Taska Performed :**
+**Taska Performed:**
 
 **Data Understanding: **
 
 Here, we need to load the data and understand the features present in it. This would help us choose the features that we will need for your final model.
 
-**Exploratory data analytics (EDA): **
+**Exploratory data analytics (EDA):**
 
 Normally, in this step, we need to perform univariate and bivariate analyses of the data, followed by feature transformations, if necessary. For the current data set, because Gaussian variables are used, we do not need to perform Z-scaling. However, you can check if there is any skewness in the data and try to mitigate it, as it might cause problems during the model-building phase.
 
@@ -28,6 +28,6 @@ Now we are familiar with the train/test split, which we can perform in order to 
 
 This is the final step at which we can try different models and fine-tune their hyperparameters until we get the desired level of performance on the given dataset. 
 
-**Model Evaluation: **
+**Model Evaluation:**
 
 We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
