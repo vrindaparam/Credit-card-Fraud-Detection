@@ -12,7 +12,7 @@ In the banking industry, credit card fraud detection using machine learning is n
 
 **Taska Performed:**
 
-**Data Understanding: **
+**Data Understanding:**
 
 Here, we need to load the data and understand the features present in it. This would help us choose the features that we will need for your final model.
 
